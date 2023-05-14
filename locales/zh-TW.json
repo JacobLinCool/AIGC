@@ -1,0 +1,27 @@
+{
+	"auth": {
+		"logged-in-as": "以 {user} 身份登入",
+		"you-are-in-guest-mode": "目前為訪客模式，點擊此處登入。"
+	},
+	"game": {
+		"id": "賽局 ID",
+		"start": "開始"
+	},
+	"menu": {
+		"columns": "行數（m）",
+		"description": "人工智慧遊戲競賽",
+		"game-id": "輸入賽局 ID 以加入",
+		"join": "加入",
+		"new": "開始新遊戲",
+		"or": "或",
+		"rows": "列數（n）",
+		"settings": "設定",
+		"start": "開始",
+		"title": "AIGC"
+	},
+	"settings": {
+		"what": "你想設定什麼東西？"
+	},
+	"welcome": "歡迎使用 SvelteKit+",
+	"with-tech": "SvelteKit 加上 TailwindCSS、DaisyUI 以及 I18n！"
+}

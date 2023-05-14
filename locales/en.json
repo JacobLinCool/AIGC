@@ -1,0 +1,27 @@
+{
+	"auth": {
+		"logged-in-as": "Logged in as {user}",
+		"you-are-in-guest-mode": "You are in Guest Mode. Click here to login."
+	},
+	"game": {
+		"id": "Game ID",
+		"start": "Start"
+	},
+	"menu": {
+		"columns": "Columns (m)",
+		"description": "Artificial Intelligence Game Competition.",
+		"game-id": "Enter Game ID to join",
+		"join": "Join",
+		"new": "Start New Game",
+		"or": "Or",
+		"rows": "Rows (n)",
+		"settings": "Settings",
+		"start": "Start",
+		"title": "AIGC"
+	},
+	"settings": {
+		"what": "What do you want to set?"
+	},
+	"welcome": "Welcome to SvelteKit+",
+	"with-tech": "SvelteKit with TailwindCSS, DaisyUI, and I18n!"
+}
